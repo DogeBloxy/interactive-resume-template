@@ -12,7 +12,7 @@ export const resumeConfig: ResumeConfig = {
     photoBackEmoji: '👩‍💻', // Shown when clicking the photo (3D flip)
     title: {
       en: 'Fullstack Developer',
-      fr: 'Développeuse Fullstack',
+      fr: 'Développeur Fullstack',
     },
     subtitle: {
       en: '3 years of experience',
