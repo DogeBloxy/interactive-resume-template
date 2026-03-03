@@ -24,7 +24,7 @@ export const resumeConfig: ResumeConfig = {
   // ===== SEO (used in <head> meta tags) =====
   seo: {
     title: 'Tiago Labro — Développeur Full-Stack',
-    description: 'Interactive resume of Jane Doe, Fullstack Developer specializing in React and TypeScript.',
+    description: 'Un CV interactif de Tiago Labro, un développeur full-stack.',
   },
 
   // ===== LANGUAGES =====
